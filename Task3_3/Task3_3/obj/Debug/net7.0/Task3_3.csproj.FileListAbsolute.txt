@@ -1,0 +1,15 @@
+C:\Users\iFix\source\repos\Task3_3\Task3_3\bin\Debug\net7.0\Task3_3.exe
+C:\Users\iFix\source\repos\Task3_3\Task3_3\bin\Debug\net7.0\Task3_3.deps.json
+C:\Users\iFix\source\repos\Task3_3\Task3_3\bin\Debug\net7.0\Task3_3.runtimeconfig.json
+C:\Users\iFix\source\repos\Task3_3\Task3_3\bin\Debug\net7.0\Task3_3.dll
+C:\Users\iFix\source\repos\Task3_3\Task3_3\bin\Debug\net7.0\Task3_3.pdb
+C:\Users\iFix\source\repos\Task3_3\Task3_3\obj\Debug\net7.0\Task3_3.csproj.AssemblyReference.cache
+C:\Users\iFix\source\repos\Task3_3\Task3_3\obj\Debug\net7.0\Task3_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iFix\source\repos\Task3_3\Task3_3\obj\Debug\net7.0\Task3_3.AssemblyInfoInputs.cache
+C:\Users\iFix\source\repos\Task3_3\Task3_3\obj\Debug\net7.0\Task3_3.AssemblyInfo.cs
+C:\Users\iFix\source\repos\Task3_3\Task3_3\obj\Debug\net7.0\Task3_3.csproj.CoreCompileInputs.cache
+C:\Users\iFix\source\repos\Task3_3\Task3_3\obj\Debug\net7.0\Task3_3.dll
+C:\Users\iFix\source\repos\Task3_3\Task3_3\obj\Debug\net7.0\refint\Task3_3.dll
+C:\Users\iFix\source\repos\Task3_3\Task3_3\obj\Debug\net7.0\Task3_3.pdb
+C:\Users\iFix\source\repos\Task3_3\Task3_3\obj\Debug\net7.0\Task3_3.genruntimeconfig.cache
+C:\Users\iFix\source\repos\Task3_3\Task3_3\obj\Debug\net7.0\ref\Task3_3.dll
